@@ -1,1 +1,1 @@
-Nyp uygulamarı sonucu oluşturulan dosyaların içerdiği bir repo.
+Nyp uygulamarı sonucu oluşturulan dosyaları içeren bir repo.
